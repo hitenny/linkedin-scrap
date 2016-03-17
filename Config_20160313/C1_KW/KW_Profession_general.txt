@@ -1,0 +1,39 @@
+Arzt
+Ärztlicher
+ärztin
+ärztin
+Ärztin
+lekarz
+läkare
+lækare
+lakare
+Iäkare
+lege
+Læge
+läk
+läk.
+AT-
+ST-
+Doctor
+*Doktor
+diktor
+docktor
+Dr
+Dr.
+m.d
+M.D.
+M,D.
+MD
+M. D.
+M D
+Med Dr
+MDPhD
+MDPhDDEAA
+Medical Doctor
+Medico
+Médico
+Resident
+Physcian
+*kirurg
+Chirurg
+Surgeon

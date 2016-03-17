@@ -1,0 +1,11 @@
+﻿WORK_STATUS
+Retired
+Pensionär
+Pensionerad
+Föräldraledig
+Arbetslös
+unemployed
+Parental leave
+Mammaledig
+Pappaledig
+Looking for new opportunities

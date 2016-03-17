@@ -1,0 +1,127 @@
+﻿NON_PROFESSION_TITLE
+*arbetsterapeut
+*ekonom
+*fysiker
+*sekreterare
+*sjukgymnast
+*sjuksköterska
+*sköterska
+*nurse
+DSK
+RN
+Usk
+Uska
+*tandläkare
+Accountant
+Barnmorska
+Barnskötare
+bartender
+behandlingsassistent 
+Beteendevetare
+Bibliotekarie
+Biomedical laboratory technologist
+Biomedicinsk analytiker
+Biomedicinskanalytiker
+BMA
+Boendeassistent
+Callcenteragent
+Chaufför
+Chemist
+Civilekonom
+Dental hygienist
+Dentist
+Ekonom
+Ekonomiassistent
+elektriker 
+Elevassistent 
+Engineer
+Engineering
+Ergonomist
+Executive secretary
+Fastighetsskötare
+Gymnasielärare
+Hotel and Restaurant Manager
+Hotel Manager
+Hotelldirektör
+Hotellreceptionist
+Hotelmanager
+HR Manager
+Industrialiseringsingenjör 
+Ing
+Ingenjör 
+innesäljare
+IT-pedagog
+Jurist 
+Kognitionsvetare
+Konstruktör
+kökschef
+Lawyer 
+Massageterapeut
+Massagetheraphist
+Medical Secretary
+Medicalsecretary
+Medicinsk sekreterare
+Naprapat
+nattportier
+*Optiker
+Pedagog 
+Personlig assistent
+Personlig handläggare
+Photographer
+Psykolog
+Receptarie
+Reception- och konferensansvarig
+Receptionist 
+Restaurangchef 
+SAS programmer
+sekreterare
+Servitör
+Sjukgymnast
+Sjukhusfysiker
+sjuksköt
+Sjukskötare
+sjuköterska
+Skötare
+socionom
+Statistiker
+Student på Handelshögskolan
+Systemerare
+Systemtekniker/Prosjektingeniør 
+Tandhygienist
+Tandläkarstudent
+Tandsköterska
+Tdl
+teckenspråkstolk
+Testutvecklare / Processingenjör
+Undersköterska
+Vaktmästare
+Vårdare
+Vårdbiträde
+accounant
+Brandingenjör
+Broker
+Byggnadsingenjör
+Chiropractor
+Dietician
+Dietist
+fysioterapeut
+Game Designer
+IT-konsult
+Journalist
+Kiropraktor
+Kock
+Legal Counsel
+engneer
+Med sekr
+Medicinsk sekr 
+Physical therapist
+Physiotherapist
+Tandteniker
+Tannlege
+Veterinär
+Lic kinesiologia y Fisioterapia
+Hospitalpharmacist
+Präst
+Pharmacist
+Chefsfarmaceut
+Fysiotherapeut
